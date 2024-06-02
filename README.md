@@ -4,7 +4,7 @@
 # Welcome to My GitHub Profile!
 
 ## 👋 Hi there, 
-I'm 90Barricade93 a.k.a Raymond! I recently embarked on my journey in the IT field and am eager to further develop my skills and knowledge. A python course, interests for tech & innovation, reinforced by completing over 40 courses related to data and AI, has ignited my passion for technology.
+I'm Raymond, known in the digital world as 90Barricade93. My journey in the IT field began recently, fueled by a Python course and a strong interest in technology and innovation. With over 40 completed courses in data and AI, my passion for software development has been ignited. I am eager to continue developing my skills and knowledge in this exciting and ever-evolving industry.
 
 <img src="profile-pic (2) (2).png"
      style="display: block; margin-left: auto; margin-right: auto; max-height: 400px;"
