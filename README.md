@@ -3,44 +3,56 @@
 
 # Welcome to My GitHub Profile!
 
-## 👋 Hi there, 
-I'm Raymond, known in the digital world as 90Barricade93. My journey in the IT field began recently, fueled by a Python course and a strong interest in technology and innovation. With over 40 completed courses in data and AI, my passion for software development has been ignited. I am eager to continue developing my skills and knowledge in this exciting and ever-evolving industry.
+## 👋 Welcome!
+
+Hi, I’m **Raymond** — a motivated and curious developer with a strong foundation in **AI**, **software**, and **web development**. I'm building a **T-shaped profile**: deep expertise in AI and software development, and broad skills in related tech like cloud and frontend/backend web stacks.
 
 <img src="profile-pic (2) (2).png"
      style="display: block; margin-left: auto; margin-right: auto; max-height: 400px;"
      alt="Profile Picture">
 <font size="1">continious learner since 2023 🤓</font>
-##   What I'm Looking For:
-- **Mentorship**: I would love to learn from experienced professionals. If you're interested in mentoring, please let me know!
-- **Internships**: I'm seeking opportunities to gain hands-on experience and contribute to meaningful projects.
-- **Entry-Level Positions**: Ready to officially kickstart my career, I am looking for full-time opportunities where I can apply my skills and continue to grow.
+## 🔍 What I'm Looking For
 
-## About Me:
-### My Expertise:
-- **Languages**: Proficient in Python, HTML, CSS, and familiar with C# and R.
-- **AI and Data Analysis**: Deeply interested in machine learning, neural networks, and data visualization techniques.
-- **Software Development**: Committed to developing robust, scalable software that enhances user experiences and business operations.
-- **Cloud Technologies**: Actively exploring cloud solutions to improve system efficiency and scalability.
+- **👨‍🏫 Mentorship** – Eager to learn from experienced professionals in AI, software, and web development.
+- **💼 Internships** – Actively seeking hands-on experience to contribute to real-world, impactful projects.
+- **🚀 Entry-Level Roles** – Ready for a full-time role where I can apply my skills and keep learning on the job.
 
-**Interests**: 
-  - **Artificial Intelligence (AI)**: Passionate about the potential of AI to transform industries and improve lives.
-  - **Software Development (SD)**: Engaged in building robust and scalable software solutions.
-  - **Cloud Technologies**: Exploring cloud platforms and services to optimize computing resources and scalability.
-  - **Flight Simulation**: An avid enthusiast of flying in MSFS2020 using VR with single piston engine aircraft (VFR), enjoying the challenge and precision of visual flight rules navigation.
 
-## Goals:
-- **Career**: Aspire to become a T-shaped professional in AI/software development, with in-depth knowledge in specialized areas while remaining broadly competent in the industry.
-- **Personal**: To become fluent speaker of English, and to contribute to meaningful projects.
-- **Community**: To be part of a welcoming and inclusive community of learners and professionals.
+## 🧠 About Me
 
+### 🛠️ Tech Skills
+
+- **Languages**: Python, HTML, CSS, JavaScript (TypeScript), C#, R (basic).
+- **Web Development**:
+  - **Frontend**: React, Next.js, Tailwind CSS, Zustand, TanStack Query.
+  - **Backend**: Express.js, Django, FastAPI, REST APIs.
+  - **Databases**: PostgreSQL, Supabase, Drizzle ORM.
+- **AI & Data**: Machine Learning, neural networks, RAG pipelines, DataCamp-trained.
+- **Cloud & DevOps**: Working with Replit, Docker, Supabase, deployment automation.
+- **Tools**: GitHub, Poetry, Vite, VS Code, Postman, etc.
+
+### ✈️ Interests
+
+- **AI & Software**: Love building scalable, meaningful solutions using smart technologies.
+- **Web Development**: Passionate about full-stack development, especially modern, performant UIs.
+- **Cloud**: Exploring cost-effective and scalable cloud architectures.
+- **Flight Simulation**: Enjoying VFR flights in MSFS2020 (VR, single piston aircraft).
+
+## 🎯 Goals
+
+- **Career**: Grow into a T-shaped **AI/Web Developer** with architectural thinking.
+- **Personal**: Speak fluent English and contribute to projects that have real-world impact.
+- **Community**: Be part of an open, inclusive network of learners and professionals.
+
+## 📂 Portfolio
 ### 👀 Have a look at my dataCamp portfolio:
 - [dataCamp](https://www.datacamp.com/portfolio/raymonddevries76)
 
-## 🔗 Connect with me! 
+## 🤝 Connect With Me
 Feel free to reach out here on GitHub or via;
-- [linkedin](https://www.linkedin.com/in/raymond-de-vries76/)
-- [twitter](https://x.com/Vries_de_R)
-
+- 💼 [linkedin](https://www.linkedin.com/in/raymond-de-vries76/)
+- 🐦 [twitter](https://x.com/Vries_de_R)
+- 📫 Or just message me here on GitHub!
 -------
 
 <center>
