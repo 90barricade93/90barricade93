@@ -1,4 +1,4 @@
-<img src="barricade.jpg">
+<img src="Graffiti Street Art with Neon Python.png">
 <a name="readme-top"></a>
 
 # Welcome to My GitHub Profile!
@@ -7,7 +7,7 @@
 
 Hi, I’m **Raymond** — a motivated and curious developer with a strong foundation in **AI**, **software**, and **web development**. I'm building a **T-shaped profile**: deep expertise in AI and software development, and broad skills in related tech like cloud and frontend/backend web stacks.
 
-<img src="Graffiti Street Art with Neon Python.png"
+<img src="profile-pic (2) (2).png"
      style="display: block; margin-left: auto; margin-right: auto; max-height: 400px;"
      alt="Profile Picture">
 <font size="1">continious learner since 2023 🤓</font>
